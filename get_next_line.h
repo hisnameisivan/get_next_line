@@ -6,7 +6,7 @@
 /*   By: waddam <waddam@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/01/11 13:53:33 by waddam            #+#    #+#             */
-/*   Updated: 2020/02/28 22:23:55 by waddam           ###   ########.fr       */
+/*   Updated: 2020/02/28 22:32:34 by waddam           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 # include <sys/types.h>
 # include <sys/stat.h>
 # include <fcntl.h>
-# include "../libft/libft.h"
+# include "libft/libft.h"
 
 # define BUFF_SIZE	555
 # define DELIMITER	'\n'
